@@ -46,17 +46,17 @@ Este projeto consiste em coletar dados de eventos do site da Sympla utilizando w
 
 #### Capa:
 <p align="center">
-  <img alt="portifolio" src="https://github.com/LLR798/Portfolio/blob/main/imagens/capa.svg?raw=true" width="100%">
+  <img alt="portifolio" src="https://github.com/LLR798/web_scraping_and_analysis_sympla_eventos/blob/main/imagens/capa.png?raw=true" width="100%">
 </p>
 
 #### Eventos:
 <p align="center">
-  <img alt="portifolio" src="https://github.com/LLR798/Portfolio/blob/main/imagens/pag2.svg?raw=true" width="100%">
+  <img alt="portifolio" src="https://github.com/LLR798/web_scraping_and_analysis_sympla_eventos/blob/main/imagens/eventos.png?raw=true" width="100%">
 </p>
 
 #### Cronograma:
 <p align="center">
-  <img alt="portifolio" src="https://github.com/LLR798/Portfolio/blob/main/imagens/pag3.svg?raw=true" width="100%">
+  <img alt="portifolio" src="https://github.com/LLR798/web_scraping_and_analysis_sympla_eventos/blob/main/imagens/cronograma.png?raw=true" width="100%">
 </p>
 
 ### Considerações Finais
