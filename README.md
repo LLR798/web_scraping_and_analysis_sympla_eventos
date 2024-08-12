@@ -16,7 +16,7 @@ Este projeto consiste em coletar dados de eventos do site da Sympla utilizando w
       - `DadosEventos`: Armazena detalhes de cada evento (ID, ID do evento, data, localização).
 
 3. **Consultas SQL:**
-   - O script `consultas_sql.py` executa diversas consultas SQL no banco de dados para extrair informações relevantes sobre os eventos.
+   - O script `consultas_sql.ipynb` executa diversas consultas SQL no banco de dados para extrair informações relevantes sobre os eventos.
    - As consultas incluem:
       - Listar todos os eventos com detalhes.
       - Listar os eventos mais próximos de iniciar.
