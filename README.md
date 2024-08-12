@@ -7,7 +7,7 @@ Este projeto consiste em coletar dados de eventos do site da Sympla utilizando w
 ### Etapas do Projeto
 
 1. **Web Scraping:**
-   - Utilizando a linguagem Python e a biblioteca BeautifulSoup, o script `web_scraping_sympla.ipynb` extrai informações como nome, data, local e categoria de eventos das páginas de categorias do Sympla.
+   - Utilizando a linguagem Python e a biblioteca BeautifulSoup, o script `web_scraping_sympla.py` extrai informações como nome, data, local e categoria de eventos das páginas de categorias do Sympla.
    - Os dados são armazenados em um banco de dados SQLite (`eventos.db`) para facilitar a consulta e análise.
 
 2. **Banco de Dados SQLite:**
